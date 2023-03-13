@@ -1,6 +1,6 @@
 """
 The classic game of flappy bird. Make with python
-and pygame. Features pixel perfect collision using masks :o
+and pygame. Features pixel perfect collision using masks
 
 
 """
