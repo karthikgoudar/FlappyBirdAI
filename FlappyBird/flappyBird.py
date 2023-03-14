@@ -1,7 +1,11 @@
 """
-The classic game of flappy bird. Make with python
-and pygame. Features pixel perfect collision using masks
+Author : Karthik Goudar
+Date   : 10 Mar, 2023
 
+The classic game of flappy bird. 
+Features pixel perfect collision using masks.
+Uses AI to get better each generation. 
+Made with python and pygame using NEAT module.
 
 """
 import pygame
