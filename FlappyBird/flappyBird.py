@@ -5,7 +5,7 @@ Date   : 10 Mar, 2023
 The classic game of flappy bird. 
 Features pixel perfect collision using masks.
 Uses AI to get better each generation. 
-Made with python and pygame using NEAT(Neuroevolution of Augmenting Topologies) module.
+Made with python and pygame using NEAT(Neuroevolution  of Augmenting Topologies) module.
 
 """ 
 import pygame
