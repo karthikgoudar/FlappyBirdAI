@@ -21,12 +21,6 @@ This game is made using the following technologies:
 3. Run the game using `python flappy_bird.py`.
 4. Use the spacebar to make the bird flap its wings and fly upwards.
 
-## Screenshots
-Here are some screenshots of the game:
-![Title Screen](screenshots/title_screen.png)
-![Gameplay](screenshots/gameplay.png)
-![Game Over Screen](screenshots/game_over_screen.png)
-
 ## Contributing
 Contributions are welcome! Please create a pull request to contribute to this project.
 
